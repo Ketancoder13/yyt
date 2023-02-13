@@ -1,1 +1,1 @@
-![alt text](download.jpng "Title")
+![alt text](download.jpeg "Title")
